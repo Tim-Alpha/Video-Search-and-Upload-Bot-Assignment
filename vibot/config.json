@@ -1,0 +1,7 @@
+{
+    "TOKEN": "your_token",
+    "UPLOAD_URL_ENDPOINT": "https://api.socialverseapp.com/posts/generate-upload-url",
+    "CREATE_POST_ENDPOINT": "https://api.socialverseapp.com/posts",
+    "VIDEO_DIR": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "CATEGORY_ID": "null"
+}
